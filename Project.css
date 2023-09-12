@@ -1,0 +1,96 @@
+.navbar
+{
+    background:gainsboro;
+    display: flex;
+    justify-content: right;
+    justify-items: right;
+    justify-content:space-evenly;
+    
+    
+}
+.img
+{
+    height: 130px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+ul,li{
+    display: inline;
+    margin-top: 70px;
+    margin-left: 40px;
+    font-size: larger;
+
+}
+.main
+{
+    height: 700px;
+    width: 1450px;
+    position: absolute;
+    
+}
+
+
+.res
+{
+    border:solid 2px black;
+        height: 200px;
+        width: 225px;
+       background-color: rgb(234, 45, 114);
+       border-radius: 200px;
+       position: relative;
+       top:350px;
+       left: 1100px;
+       text-align: center;
+       font-size: larger;
+       text-indent: 50px;
+       padding-top: 27px;
+       box-shadow: 10px 10px greenyellow;
+
+}
+footer
+{
+  text-align: center;
+  padding: 140px;
+  background-color: rgb(233, 52, 109);
+  color: white;
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+}
+
+.cake
+{
+    text-align: center;
+  padding: 50px;
+  background-color: rgb(197, 233, 52);
+  color: white;
+  
+}
+
+.align
+{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+    
+}
+.product
+{
+    
+    text-align: left;
+  padding: 55px;
+  background-color: rgb(229, 229, 228);
+  color: black;
+
+}
+.yogurt{
+ 
+    position: absolute;
+    top: 865px;
+    right: 50px;
+}
+
